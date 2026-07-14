@@ -30,5 +30,33 @@ This project analyzes e-commerce transaction data to identify fraud patterns usi
 - Exploratory Data Analysis (EDA)
 - SQL Analysis
 - BigQuery
+
+## Progress Update (Day 2)
+
+### Completed
+
+- Loaded and explored the E-Commerce Fraud dataset
+- Performed data cleaning
+- Removed missing values
+- Removed duplicate records
+- Converted transaction date to datetime format
+- Performed exploratory data analysis (EDA)
+- Analyzed fraud distribution
+- Analyzed transaction amount distribution
+- Analyzed payment methods
+- Calculated fraud rate by payment method
+- Analyzed product categories
+- Calculated fraud rate by product category
+- Analyzed customer age
+- Analyzed device usage
+- Calculated fraud rate by device
+
+### Key Insights
+
+- Overall fraud rate is approximately 5%.
+- Credit Card transactions have the highest fraud rate (5.12%).
+- Toys & Games has the highest fraud rate among product categories.
+- Mobile devices have a slightly higher fraud rate than desktop and tablet devices.
+- Most transactions are below ₹300 with a small number of high-value transactions.
 - Power BI Dashboard
 - Business Insights
