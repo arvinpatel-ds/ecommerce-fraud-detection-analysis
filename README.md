@@ -195,16 +195,21 @@ Completed analyses:
 - Transaction Amount Box Plot
 
 ---
+## Phase 5 – SQL Analysis (SQLite)
+Objective
+
+Perform SQL-based exploratory data analysis and business intelligence reporting on the cleaned fraud detection dataset.
+
+Tools Used
+- SQLiteStudio
+- SQLite
+- SQL
+- CSV Dataset (Fraud_Final.csv)
+---
 
 # 🔄 Next Steps
 
 ## Phase 5 – SQL (BigQuery)
-
-- Upload cleaned dataset to BigQuery
-- Write business SQL queries
-- Fraud analysis using SQL
-- Aggregate reporting
-- Window Functions
 - CTEs
 
 ---
