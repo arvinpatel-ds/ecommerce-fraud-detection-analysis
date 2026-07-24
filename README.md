@@ -86,9 +86,11 @@ ecommerce-fraud-detection-analysis/
 │   ├── customer_age_distribution.png
 │   ├── fraud_by_age_group.png
 │   └── transaction_amount_boxplot.png
+|
+├── docs/
 │
 ├── sql/
-│
+|
 ├── powerbi/
 │
 ├── README.md
